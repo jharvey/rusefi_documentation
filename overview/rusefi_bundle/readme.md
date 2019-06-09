@@ -6,3 +6,6 @@
 
  
  `rusefi.ini` is TunerStudio project template file, you would use it if you use TunerStudio software to tune your rusEfi unit.
+ See http://www.tunerstudio.com/index.php/downloads for TunerStudio download
+ 
+ See http://rusefi.com and https://github.com/rusefi/rusefi_documentation for more information about rusEfi
