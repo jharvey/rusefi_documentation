@@ -24,3 +24,5 @@ D=0.3
 though you could probably use D=0 since the system is already damped so hard
 
 50Hz
+
+4.2 working numbers example: https://rusefi.com/forum/viewtopic.php?p=33450#p33450
