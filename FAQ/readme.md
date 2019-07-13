@@ -8,4 +8,4 @@
 
 [Is there a chat?](rusefi_chat.md)
 
-[How to help rusEfi?](HOWTO_Help_rusEfi.md)
+[How to help rusEfi?](HOWTO_help_rusEfi.md)
